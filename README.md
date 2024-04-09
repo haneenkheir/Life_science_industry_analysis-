@@ -11,18 +11,17 @@ The purpose of this project is to leverage government statistics data to provide
 
 ## Table of Contents
 
-- [Python Data Analysis and Dashboard](#Python Analysis)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
+- [Python Data Analysis and Dashboard](#Python_Analysis)
+- [Excel Data Analysis and Dashboard](#Excel_Analysis)
 - [Credits](#credits)
 
 
-## Excel Analysis 
+## Excel_Analysis 
 [Workbook]([https://github.com/haneenkheir/Life_science_industry_analysis-/blob/main/Biosci_sector_dashboard.ipynb](https://github.com/haneenkheir/Life_science_industry_analysis-/blob/main/Life_science_industry_analysis_dashboard.xlsx))
 
 ![Excel_dashboard](Excel_dash_lifesci.png)
 
-## Python Analysis 
+## Python_Analysis 
 [Notebook](https://github.com/haneenkheir/Life_science_industry_analysis-/blob/main/Biosci_sector_dashboard.ipynb)
 
 ![Python_dashboard](Py_dash_lifesci.png)
