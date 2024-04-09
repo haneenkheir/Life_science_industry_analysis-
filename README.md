@@ -28,6 +28,6 @@ The purpose of this project is to leverage government statistics data to provide
 
 ## Credits
 
-This project was created by [Haneen Kheir ](https://github.com/haneenkheir). Data Source: [Data](https://www.gov.uk/government/statistics/bioscience-and-health-technology-sector-statistics-2021)  
+This project was created by [Haneen Kheir ](https://github.com/haneenkheir). Data Source: [Gov.UK Official Statistics Bioscience and health technology sector statistics 2021](https://www.gov.uk/government/statistics/bioscience-and-health-technology-sector-statistics-2021)  
 
 
